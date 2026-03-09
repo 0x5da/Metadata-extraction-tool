@@ -1,6 +1,11 @@
 ## Artifact Extractor
+*Created by 0x5da (toasty/OsintToast/WoahToast)*
 
 Metadata extraction tool for documents, images, and archives. Recovers EXIF data from photographs, embedded metadata from PDFs and Office documents, ZIP archives structure, and binary file information. Useful for OSINT, forensics, and data discovery investigations.
+
+### Why I Built This
+
+Developed for OSINT researchers and digital forensics professionals who need to extract intelligence from files and metadata. Built to rapidly recover embedded information (EXIF GPS coordinates, document authors, creation timestamps, archive structures)—enabling attribution analysis, timeline reconstruction, and discovery of sensitive information users may have accidentally disclosed through document metadata.
 
 ### What It Does
 
